@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hey there, I'm Farhan
 
-<!--
-**mfarhan0304/mfarhan0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend engineer with over 4 years of experience building scalable systems — currently diving deep into machine learning and financial applications.
 
-Here are some ideas to get you started:
+🧠 Right now, I’m pursuing my Master’s at **NYU Courant**, specializing in **machine learning** and its intersection with the **financial industry**. Based in New York, I'm open to collaboration, internships, and full-time opportunities in fintech, AI, or backend engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages**: Python, Go, JavaScript (React)
+- **Frameworks**: Flask, PyTorch
+- **Databases**: PostgreSQL
+- **Tools & Interests**: REST APIs, ML models, distributed systems, quant strategies, devops basics
+
+## 🚀 What I'm About
+- Turning complex backend logic into clean, efficient code
+- Learning how machine learning can transform financial systems
+- Writing code that's built to last (and is fun to read)
+
+## 📫 Reach Out
+- 📧 Email: [mfarhan0304@gmail.com](mailto:mfarhan0304@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/mfarhan0304](https://linkedin.com/in/mfarhan0304)
+
+---
+
+Let’s build something great together.
